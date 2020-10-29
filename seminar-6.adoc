@@ -8,6 +8,7 @@
 :revealjs_theme: white
 :stylesheet: main.css
 
+
 == Операторы присваивания SharedBuffer и LazyString
 
 Если мы делаем корректный буфер, то LazyString - это просто надстройка над ним.
